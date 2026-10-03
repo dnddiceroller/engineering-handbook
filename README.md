@@ -1,5 +1,11 @@
 # engineering-handbook
 
+
+
+https://github.com/user-attachments/assets/23eb1016-591f-43bc-a888-dbb481be2103
+
+
+
 From the team behind [dnddiceroller.com](https://www.dnddiceroller.com) · [more from us](https://github.com/dnddiceroller)
 
 **Roll dice. Keep the receipt.**
@@ -41,3 +47,7 @@ Found a rule that reads wrong, or a term we forgot? Open an issue or a pull requ
 ## Licence
 
 Code in this repo is MIT ([LICENSE](LICENSE)). The prose in `docs/` and this README is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): share and adapt it, and credit Iron Code Studios.
+
+
+
+
